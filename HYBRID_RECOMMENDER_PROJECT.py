@@ -1,6 +1,6 @@
 
 #############################################
-# PROJE: Hybrid Recommender System
+# PROJECT: Hybrid Recommender System
 #############################################
 
 # Make predictions using item-based and user-based recommender methods for the user with the given ID.
